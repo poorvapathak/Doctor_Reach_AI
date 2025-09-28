@@ -1,0 +1,21 @@
+NPI,State,Region,Speciality,Probability
+1000000382,TX,West,Radiology,0.84237707
+1000000920,FL,Northeast,Orthopedics,0.8399593
+1000000952,NC,South,Oncology,0.83581626
+1000000107,PA,South,Orthopedics,0.83102125
+1000000011,IL,Midwest,General Practice,0.8303791
+1000000122,GA,Midwest,Oncology,0.82169986
+1000000809,CA,South,Neurology,0.82070506
+1000000519,IL,Northeast,General Practice,0.80683315
+1000000850,OH,West,Orthopedics,0.8026745
+1000000015,OH,West,General Practice,0.8010118
+1000000456,PA,Northeast,Cardiology,0.800652
+1000000782,OH,Midwest,General Practice,0.7980318
+1000000704,CA,Northeast,Neurology,0.7976986
+1000000391,PA,Northeast,Oncology,0.7929662
+1000000924,IL,South,Radiology,0.7900344
+1000000268,PA,South,Pediatrics,0.7882471
+1000000005,IL,Midwest,Orthopedics,0.78729206
+1000000211,MI,South,Oncology,0.7865545
+1000000210,PA,West,Orthopedics,0.78507787
+1000000288,NC,South,Oncology,0.7813485

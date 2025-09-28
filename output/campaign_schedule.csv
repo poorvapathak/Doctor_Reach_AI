@@ -1,0 +1,101 @@
+NPI,State,Region,Speciality,Probability,Campaign_Hour,Priority
+1000000548,TX,West,Pediatrics,0.9696335,21,High
+1000000643,CA,South,Pediatrics,0.96860963,21,High
+1000000501,NY,Midwest,Pediatrics,0.9647311,21,High
+1000000165,GA,West,Orthopedics,0.96212363,21,High
+1000000705,GA,West,Orthopedics,0.96212363,21,High
+1000000305,NY,West,Cardiology,0.96161455,21,High
+1000000861,IL,South,Oncology,0.9595148,21,High
+1000000524,IL,South,Oncology,0.9595148,21,High
+1000000066,CA,Midwest,General Practice,0.95936185,21,High
+1000000031,NC,South,Oncology,0.9590751,21,High
+1000000663,MI,Midwest,Oncology,0.9582188,21,High
+1000000754,NC,Northeast,Cardiology,0.95806015,21,High
+1000000653,GA,Midwest,General Practice,0.9579873,21,High
+1000000847,OH,Northeast,Oncology,0.9575538,21,High
+1000000659,CA,West,Pediatrics,0.956964,21,High
+1000000381,NY,Midwest,Cardiology,0.9566316,21,High
+1000000251,NC,South,Neurology,0.9558045,21,High
+1000000374,NC,South,Cardiology,0.95427686,21,High
+1000000281,IL,South,Orthopedics,0.9538158,21,High
+1000000400,IL,Northeast,Orthopedics,0.9538158,21,High
+1000000901,OH,South,Orthopedics,0.97587115,7,High
+1000000555,CA,West,Orthopedics,0.9754533,7,High
+1000000506,NY,West,Pediatrics,0.97389436,7,High
+1000000029,FL,South,Cardiology,0.97363645,7,High
+1000000424,NC,Midwest,Oncology,0.9732187,7,High
+1000000470,NC,Midwest,Cardiology,0.9732187,7,High
+1000000563,TX,West,General Practice,0.97214633,7,High
+1000000332,TX,South,General Practice,0.9710606,7,High
+1000000926,CA,Northeast,Neurology,0.96821845,7,High
+1000000322,CA,Midwest,Orthopedics,0.96581995,7,High
+1000000866,MI,Northeast,Pediatrics,0.94300157,7,High
+1000000178,MI,South,Pediatrics,0.9417169,7,High
+1000000460,MI,Midwest,Orthopedics,0.94040686,7,High
+1000000282,TX,Midwest,Cardiology,0.93936735,7,High
+1000000338,TX,South,Cardiology,0.935483,7,High
+1000000377,IL,Midwest,Cardiology,0.9346477,7,High
+1000000908,FL,West,Orthopedics,0.9342583,7,High
+1000000431,PA,West,Neurology,0.93403316,7,High
+1000000684,OH,Midwest,Pediatrics,0.9340031,7,High
+1000000023,PA,Midwest,Oncology,0.93328613,7,High
+1000000054,GA,Northeast,Cardiology,0.93145406,20,High
+1000000379,FL,West,Cardiology,0.92932606,20,High
+1000000974,IL,Northeast,Oncology,0.9289839,20,High
+1000000651,PA,Midwest,Oncology,0.92573816,20,High
+1000000061,CA,Midwest,General Practice,0.9190038,20,High
+1000000891,NC,Midwest,Oncology,0.9186739,20,High
+1000000591,PA,West,Cardiology,0.9179835,20,High
+1000000634,IL,Midwest,General Practice,0.91061723,20,High
+1000000051,NY,West,Oncology,0.9068617,20,High
+1000000374,NC,South,Cardiology,0.90410733,20,High
+1000000251,NC,South,Neurology,0.9028241,20,High
+1000000767,TX,Northeast,Orthopedics,0.9025326,20,High
+1000000036,MI,West,Cardiology,0.9022766,20,High
+1000000505,CA,Northeast,Cardiology,0.9022766,20,High
+1000000665,FL,South,Pediatrics,0.898304,20,High
+1000000627,PA,Midwest,Radiology,0.8934909,20,High
+1000000987,NY,West,Pediatrics,0.8917768,20,High
+1000000840,CA,West,General Practice,0.8895836,20,High
+1000000035,GA,Northeast,Orthopedics,0.88772005,20,High
+1000000592,GA,Northeast,General Practice,0.8866728,20,High
+1000000168,GA,Northeast,Pediatrics,0.9110452,17,High
+1000000237,NY,West,Orthopedics,0.9062075,17,High
+1000000872,NC,West,Orthopedics,0.8995754,17,High
+1000000325,NC,South,Oncology,0.89851326,17,High
+1000000208,IL,Northeast,General Practice,0.8957065,17,High
+1000000859,TX,West,General Practice,0.8928163,17,High
+1000000532,NC,Midwest,General Practice,0.88954043,17,High
+1000000110,FL,Northeast,Radiology,0.8864552,17,High
+1000000977,OH,Northeast,Neurology,0.87941223,17,High
+1000000004,GA,West,Oncology,0.8778477,17,High
+1000000537,CA,West,General Practice,0.87772113,17,High
+1000000716,PA,Northeast,Pediatrics,0.8771541,17,High
+1000000241,NC,Northeast,General Practice,0.8755903,17,High
+1000000293,FL,Midwest,Neurology,0.8704421,17,High
+1000000556,FL,West,Cardiology,0.8698406,17,High
+1000000397,NC,West,Radiology,0.8696636,17,High
+1000000773,CA,Northeast,Radiology,0.8696636,17,High
+1000000842,MI,Northeast,Oncology,0.8687316,17,High
+1000000319,NC,West,General Practice,0.86699647,17,High
+1000000561,OH,Northeast,Cardiology,0.8641439,17,High
+1000000212,PA,South,General Practice,0.91778386,18,High
+1000000060,OH,South,Orthopedics,0.91342115,18,High
+1000000731,FL,South,General Practice,0.9123386,18,High
+1000000865,PA,Midwest,Cardiology,0.9118853,18,High
+1000000696,IL,South,Oncology,0.910663,18,High
+1000000202,CA,Northeast,Oncology,0.9088088,18,High
+1000000560,MI,West,Radiology,0.9088088,18,High
+1000000446,IL,South,Radiology,0.90676284,18,High
+1000000877,GA,Northeast,Cardiology,0.9056016,18,High
+1000000998,NY,Midwest,Oncology,0.90496856,18,High
+1000000870,GA,Midwest,Cardiology,0.9036711,18,High
+1000000918,FL,Midwest,Pediatrics,0.9036408,18,High
+1000000100,MI,South,Oncology,0.90121216,18,High
+1000000540,TX,Northeast,Oncology,0.8952079,18,High
+1000000049,PA,West,Radiology,0.89443606,18,High
+1000000386,GA,West,General Practice,0.88531125,18,High
+1000000717,FL,Northeast,Oncology,0.8851642,18,High
+1000000829,FL,West,General Practice,0.8821044,18,High
+1000000613,NY,Midwest,Orthopedics,0.8785602,18,High
+1000000121,IL,South,Neurology,0.8719033,18,High
